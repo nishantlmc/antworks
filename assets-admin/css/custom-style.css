@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+.inner-container{background: #ffffff;
+padding: 25px;
+margin-bottom: 15px;
+float: left;
+width: 100%;}
+
+.table-responsive.borrower-list tr td a > img{ width:40px}
+
+.white-box {
+    background: #ffffff;
+    padding: 25px;
+    margin-bottom: 15px;
+    float: left;
+    width: 100%;
+}
+
+.panel-heading {
+    padding: 2px 15px !important;}
+	
+	 .info-text{padding-left: 0px;
+margin-bottom: 0px;
+height: 38px}
+	
+	.info-text li { display:inline-block; padding:3px;}
+	
+	
+	
+	.panel .panel-footer {
+    background: #ffffff;
+    border-radius: 0;
+    padding: 20px 25px;
+    float: left;
+    display: block;
+    width: 100%;
+}
+
+.search-box{ text-align:center}
+
+
+.right-panel{ height:100vh; max-height:100%; }
+
+dt {
+    font-weight: 500;
+    color: #5e7bcc;
+}
